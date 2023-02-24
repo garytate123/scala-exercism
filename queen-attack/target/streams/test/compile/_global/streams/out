@@ -1,0 +1,22 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/queen-attack/src/test/scala/QueenAttackTest.scala:42:55: value should is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m    QueenAttack.canAttack(create(2, 4), create(6, 6)) should be (false)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/queen-attack/src/test/scala/QueenAttackTest.scala:47:55: value should is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m    QueenAttack.canAttack(create(2, 4), create(2, 6)) should be (true)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/queen-attack/src/test/scala/QueenAttackTest.scala:52:55: value should is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m    QueenAttack.canAttack(create(4, 5), create(2, 5)) should be (true)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/queen-attack/src/test/scala/QueenAttackTest.scala:57:55: value should is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m    QueenAttack.canAttack(create(2, 2), create(0, 4)) should be (true)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/queen-attack/src/test/scala/QueenAttackTest.scala:62:55: value should is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m    QueenAttack.canAttack(create(2, 2), create(3, 1)) should be (true)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/queen-attack/src/test/scala/QueenAttackTest.scala:67:55: value should is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m    QueenAttack.canAttack(create(2, 2), create(1, 1)) should be (true)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/queen-attack/src/test/scala/QueenAttackTest.scala:72:55: value should is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m    QueenAttack.canAttack(create(2, 2), create(5, 5)) should be (true)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m7 errors found[0m

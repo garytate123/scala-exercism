@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(QueenAttackTest, org.scalatest.tools.Framework$$anon$1@5b1c512e, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mQueenAttackTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- queen with a valid position[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- queen must have positive row[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- queen must have row on board[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- queen must have positive column[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- queen must have column on board[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- can not attack[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- can attack on same row[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- can attack on same column[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- can attack on first diagonal[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- can attack on second diagonal[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- can attack on third diagonal[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- can attack on fourth diagonal[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 504 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 12[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 12, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	QueenAttackTest[0m

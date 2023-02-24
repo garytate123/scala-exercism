@@ -1,0 +1,28 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/space-age/src/test/scala/SpaceAgeTest.scala:8:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test("age on Earth") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/space-age/src/test/scala/SpaceAgeTest.scala:13:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test("age on Mercury") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/space-age/src/test/scala/SpaceAgeTest.scala:18:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test("age on Venus") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/space-age/src/test/scala/SpaceAgeTest.scala:23:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test("age on Mars") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/space-age/src/test/scala/SpaceAgeTest.scala:28:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test("age on Jupiter") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/space-age/src/test/scala/SpaceAgeTest.scala:33:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test("age on Saturn") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/space-age/src/test/scala/SpaceAgeTest.scala:38:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test("age on Uranus") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/space-age/src/test/scala/SpaceAgeTest.scala:43:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test("age on Neptune") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/space-age/src/test/scala/SpaceAgeTest.scala:48:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test("User input should equal number") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m9 errors found[0m

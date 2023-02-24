@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/space-age/src/main/scala/UserInput.scala:3:24: integer number too large[0m
+[0m[[0m[31merror[0m] [0m[0m  val userInput: Int = 99999999990[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

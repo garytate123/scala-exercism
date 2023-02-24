@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/two-fer/src/test/scala/TwoferTest.scala:9:5: not found: value Twofer[0m
+[0m[[0m[31merror[0m] [0m[0m    Twofer.twofer() should be ("One for you, one for me.")[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/two-fer/src/test/scala/TwoferTest.scala:14:5: not found: value Twofer[0m
+[0m[[0m[31merror[0m] [0m[0m    Twofer.twofer("Alice") should be ("One for Alice, one for me.")[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/two-fer/src/test/scala/TwoferTest.scala:19:5: not found: value Twofer[0m
+[0m[[0m[31merror[0m] [0m[0m    Twofer.twofer("Bob") should be ("One for Bob, one for me.")[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
