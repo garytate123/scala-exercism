@@ -1,25 +1,20 @@
-import UserInput.userInput
-import Planets._
+object SpaceAge {
 
-object SpaceAge extends App{
-
-  def onEarth(age: Double): Double = userInput / secondsOnEarth
-  def onVenus(age: Double): Double = userInput / secondsOnVenus / secondsOnEarth
-  def onMercury(age: Double): Double = userInput / secondsOnMercury / secondsOnEarth
-  def onMars(age: Double): Double = userInput / secondsOnMars / secondsOnEarth
-  def onJupiter(age: Double): Double = userInput / secondsOnJupiter / secondsOnEarth
-  def onSaturn(age: Double): Double = userInput / secondsOnSaturn / secondsOnEarth
-  def onUranus(age: Double): Double = userInput / secondsOnUranus / secondsOnEarth
-  def onNeptune(age: Double): Double = userInput / secondOnNeptune / secondsOnEarth
-
-  println("")
-  println(s"If you are from Earth, then you are " + SpaceAge.onEarth(userInput) + " years old.")
-  println(s"If you are from Venus, then you are " + SpaceAge.onVenus(userInput) + " years old in Earth years")
-  println(s"If you are from Mercury, then you are " + SpaceAge.onMercury(userInput) + " years old in Earth years")
-  println(s"If you are from Jupitar, then you are " + SpaceAge.onJupiter(userInput) + " years old in Earth years")
-  println(s"If you are from Saturn, then you are " + SpaceAge.onSaturn(userInput) + " years old in Earth years")
-  println(s"If you are from Uranus, then you are " + SpaceAge.onUranus(userInput) + " years old in Earth years")
-  println(s"If you are from Neptune, then you are " + SpaceAge.onNeptune(userInput) + " years old in Earth years")
-  println("")
+  val secondsOnEarth = 31557600
+  val secondsOnVenus = 0.61519726
+  val secondsOnMercury = 0.2408467
+  val secondsOnMars = 1.8808158
+  val secondsOnJupiter = 11.862615
+  val secondsOnSaturn = 29.447498
+  val secondsOnUranus = 84.016846
+  val secondOnNeptune = 164.79132
+  def onEarth(age: Double): Double = age / secondsOnEarth
+  def onVenus(age: Double): Double = age / secondsOnVenus / secondsOnEarth
+  def onMercury(age: Double): Double = age / secondsOnMercury / secondsOnEarth
+  def onMars(age: Double): Double = age / secondsOnMars / secondsOnEarth
+  def onJupiter(age: Double): Double = age / secondsOnJupiter / secondsOnEarth
+  def onSaturn(age: Double): Double = age / secondsOnSaturn / secondsOnEarth
+  def onUranus(age: Double): Double = age / secondsOnUranus / secondsOnEarth
+  def onNeptune(age: Double): Double = age / secondOnNeptune / secondsOnEarth
 
 }

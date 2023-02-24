@@ -1,4 +1,22 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/space-age/src/main/scala/UserInput.scala:3:24: integer number too large[0m
-[0m[[0m[31merror[0m] [0m[0m  val userInput: Int = 99999999990[0m
-[0m[[0m[31merror[0m] [0m[0m                       ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/space-age/src/main/scala/SpaceAge.scala:14:38: not found: value age[0m
+[0m[[0m[31merror[0m] [0m[0m  def onVenus(age: Double): Double = age / secondsOnVenus / secondsOnEarth[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/space-age/src/main/scala/SpaceAge.scala:15:40: not found: value age[0m
+[0m[[0m[31merror[0m] [0m[0m  def onMercury(age: Double): Double = age / secondsOnMercury / secondsOnEarth[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/space-age/src/main/scala/SpaceAge.scala:16:37: not found: value age[0m
+[0m[[0m[31merror[0m] [0m[0m  def onMars(age: Double): Double = age / secondsOnMars / secondsOnEarth[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/space-age/src/main/scala/SpaceAge.scala:17:40: not found: value age[0m
+[0m[[0m[31merror[0m] [0m[0m  def onJupiter(age: Double): Double = age / secondsOnJupiter / secondsOnEarth[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/space-age/src/main/scala/SpaceAge.scala:18:39: not found: value age[0m
+[0m[[0m[31merror[0m] [0m[0m  def onSaturn(age: Double): Double = age / secondsOnSaturn / secondsOnEarth[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/space-age/src/main/scala/SpaceAge.scala:19:39: not found: value age[0m
+[0m[[0m[31merror[0m] [0m[0m  def onUranus(age: Double): Double = age / secondsOnUranus / secondsOnEarth[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/garytate/Exercism/scala/space-age/src/main/scala/SpaceAge.scala:20:40: not found: value age[0m
+[0m[[0m[31merror[0m] [0m[0m  def onNeptune(age: Double): Double = age / secondOnNeptune / secondsOnEarth[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m7 errors found[0m
